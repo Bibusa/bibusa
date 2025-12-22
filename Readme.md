@@ -3,8 +3,8 @@ I'm a passionate Fullstack Web Developer, Mobile App Developer, Data Scientist, 
 🛠️ Technologies & Skills
 Fullstack Web Development
 
-Backend: Django, Django REST Framework, Flask, FastAPI, Laravel, Express
-Frontend: Nuxt, Vue, Svelte, SvelteKit
+Backend: Django, Django REST Framework, Flask, FastAPI, Laravel
+Frontend: Nuxt, Vue, Svelte
 Languages: JavaScript, PHP, Python, Go
 
 Mobile Application Development
