@@ -39,7 +39,7 @@ Contributing to open-source projects and learning new tools.
 📫 Get in Touch
 
 GitHub: bibusa
-Portfolio: https://bibusa.web.app
+Portfolio: https://bibusa.me
 
 Feel free to check out my repositories and reach out for collaborations or discussions! 🚀
 ⚡ Fun Fact
